@@ -1,0 +1,27 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "abusaidm.html-snippets",
+    "christian-kohler.path-intellisense",
+    "coenraads.bracket-pair-colorizer-2",
+    "davidanson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "ecmel.vscode-html-css",
+    "EditorConfig.EditorConfig",
+    "eg2.vscode-npm-script",
+    "humao.rest-client",
+    "kamikillerto.vscode-colorize",
+    "ms-vscode.atom-keybindings",
+    "orta.vscode-jest",
+    "ritwickdey.LiveServer",
+    "vscode-icons-team.vscode-icons",
+    "WallabyJs.quokka-vscode",
+    "wayou.vscode-todo-highlight",
+    "yzhang.markdown-all-in-one",
+    "Zignd.html-css-class-completion",
+  ],
+  "unwantedRecommendations": [
+    "dbaeumer.jshint",
+    "firefox-devtools.vscode-firefox-debug"
+  ]
+}
